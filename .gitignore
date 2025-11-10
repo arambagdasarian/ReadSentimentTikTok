@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Downloaded videos and analysis
+downloads/
+analysis_output/
+batch_analysis_output/
+*.mp4
+*.mp3
+*.wav
+*.jpg
+*.jpeg
+*.png
+frames/
+
+# CSV outputs
+*.csv
+
+# API keys and environment
+.env
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Whisper models cache
+~/.cache/whisper/
+
+# Logs
+*.log
+
