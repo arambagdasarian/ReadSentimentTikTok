@@ -56,3 +56,4 @@ frames/
 # Logs
 *.log
 
+.env
